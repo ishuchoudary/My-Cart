@@ -1,0 +1,56 @@
+/*#divStyle {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+#productspan {
+    margin-left: 3%;
+}
+
+#descriptionspan {
+    margin-left: 20%;
+}
+
+#pricespan {
+    margin-left: 30%;
+}
+
+#updbtn,
+#delbtn {
+    font-size: 16px;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    position: absolute;
+}
+
+#updbtn {
+    background-color: #4133ff;
+    right: 8%;
+}
+
+#delbtn {
+    background-color: #ff3333;
+    right: 17%;
+}
+
+button {
+    font-size: 16px;
+    background-color: #044713;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #cc5200;
+}
+
+h1 {
+    color: hsl(335, 97%, 37%);
+    border: 5px solid;
+    text-align: center;
+}*/
